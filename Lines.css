@@ -1,0 +1,7 @@
+#outerBody {position: absolute; left: 0px; top: 0px}
+#lines {position: absolute; color: red; left: 500px; top: 50px }
+#content{
+	position:absolute;
+	left: 700px;
+	top: 100px
+}
